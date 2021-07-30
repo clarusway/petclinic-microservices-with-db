@@ -4,7 +4,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/clarusway/petclinic-microservices-configs-with-db.git
+          uri: https://github.com/james-clarusway/petclinic-microservices-configs.git
 ---
 spring:
   profiles: local
