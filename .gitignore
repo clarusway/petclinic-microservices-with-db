@@ -20,3 +20,6 @@ generated/
 #VS Code
 .factorypath
 .project
+
+# Terraform
+**/.terraform/
